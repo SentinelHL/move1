@@ -1,0 +1,17 @@
+3/14/2025, 4:49:56 PM EDT 0: 
+
+----------------------------------------------
+3/14/2025, 4:49:56 PM EDT 1: Discord starting: {"releaseChannel":"stable","version":"0.0.88"}, modulepath: /home/kirk/.config/discord/0.0.88/modules
+3/14/2025, 4:49:56 PM EDT 2: ✅ webContents.created web1 "index.html"
+3/14/2025, 4:49:56 PM EDT 3: ✅ window.created win1 "discord"
+3/14/2025, 4:49:56 PM EDT 4: ✅ webContents.did-finish-load web1
+3/14/2025, 4:50:00 PM EDT 5: ✅ webContents.created web2 ""
+3/14/2025, 4:50:00 PM EDT 6: ✅ window.created win2 "Discord"
+3/14/2025, 4:50:02 PM EDT 7: ✅ webContents.did-finish-load web2
+3/14/2025, 4:50:02 PM EDT 8: window.close win1
+3/14/2025, 4:50:02 PM EDT 9: webContents.destroyed web1
+3/14/2025, 4:50:02 PM EDT 10: window.closed win1
+3/14/2025, 4:50:18 PM EDT 0: 
+
+----------------------------------------------
+3/14/2025, 4:50:18 PM EDT 1: Discord starting: {"releaseChannel":"stable","version":"0.0.88"}, modulepath: /home/kirk/.config/discord/0.0.88/modules
